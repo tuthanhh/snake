@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tuthanh/Coding/C++/snake/build/cmake_install.cmake",
+		"/home/tuthanh/Coding/C++/snake/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

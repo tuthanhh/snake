@@ -1,0 +1,15 @@
+Detecting compiler hash for triplet x64-linux...
+Compiler found: /usr/bin/c++
+The following packages are already installed:
+    ncurses:x64-linux@6.5#1 -- git+https://github.com/microsoft/vcpkg@a714211f4eb04f17c6f4f5e5b3ada6ea02484b4c
+  * vcpkg-cmake:x64-linux@2024-04-23 -- git+https://github.com/microsoft/vcpkg@e74aa1e8f93278a8e71372f1fa08c3df420eb840
+  * vcpkg-cmake-get-vars:x64-linux@2025-05-29 -- git+https://github.com/microsoft/vcpkg@d6510f888dd526c7828f6b973349e7f30be51254
+The package ncurses is compatible with built-in CMake variables:
+
+    set(CURSES_NEED_NCURSES TRUE)
+    find_package(Curses REQUIRED)
+    target_include_directories(main PRIVATE ${CURSES_INCLUDE_DIRS})
+    target_compile_options(main PRIVATE ${CURSES_CFLAGS})
+    target_link_libraries(main PRIVATE ${CURSES_LIBRARIES})
+
+All requested installations completed successfully in: 133 us

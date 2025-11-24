@@ -1,0 +1,5 @@
+/home/tuthanh/Coding/C++/snake/build/CMakeFiles/edit_cache.dir
+/home/tuthanh/Coding/C++/snake/build/CMakeFiles/rebuild_cache.dir
+/home/tuthanh/Coding/C++/snake/build/src/CMakeFiles/main.dir
+/home/tuthanh/Coding/C++/snake/build/src/CMakeFiles/edit_cache.dir
+/home/tuthanh/Coding/C++/snake/build/src/CMakeFiles/rebuild_cache.dir
