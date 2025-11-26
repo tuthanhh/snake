@@ -20,9 +20,9 @@ events:
     names:
       - "uname"
     candidate_directories:
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -32,16 +32,16 @@ events:
       - "/usr/bin/core_perl/"
       - "/usr/lib/rustup/bin/"
     searched_directories:
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/uname"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/uname"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/uname"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/uname"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/uname"
       - "/usr/local/bin/uname"
     found: "/usr/bin/uname"
     search_context:
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -70,9 +70,9 @@ events:
     names:
       - "cl"
     candidate_directories:
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -82,9 +82,9 @@ events:
       - "/usr/bin/core_perl/"
       - "/usr/lib/rustup/bin/"
     searched_directories:
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/cl"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/cl"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/cl"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/cl"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/cl"
       - "/usr/local/bin/cl"
       - "/usr/bin/cl"
       - "/bin/cl"
@@ -96,9 +96,9 @@ events:
     found: false
     search_context:
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -142,9 +142,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -160,9 +160,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -178,9 +178,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -211,15 +211,15 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/samu"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/samu"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/samu"
@@ -265,15 +265,15 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/samu"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/samu"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/samu"
@@ -319,15 +319,15 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/ninja-build"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/ninja"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/samu"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ninja-build"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ninja"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/samu"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja-build"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ninja"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/samu"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja-build"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ninja"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/samu"
       - "/usr/local/bin/ninja-build"
       - "/usr/local/bin/ninja"
       - "/usr/local/bin/samu"
@@ -340,9 +340,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -388,9 +388,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -406,9 +406,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -424,9 +424,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -443,9 +443,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/c++"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/c++"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/c++"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/c++"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/c++"
@@ -461,9 +461,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/c++"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/c++"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/c++"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/c++"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/c++"
@@ -479,9 +479,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/c++"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/c++"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/c++"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/c++"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/c++"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/c++"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/c++"
       - "/usr/local/bin/c++"
     found: "/usr/bin/c++"
     search_context:
@@ -491,9 +491,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -533,9 +533,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -588,9 +588,9 @@ events:
       - "ar"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -599,9 +599,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -610,9 +610,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -622,9 +622,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/ar"
@@ -633,9 +633,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/ar"
@@ -651,9 +651,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -684,9 +684,9 @@ events:
       - "ranlib"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -695,9 +695,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -706,9 +706,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -718,9 +718,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/ranlib"
@@ -729,9 +729,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/ranlib"
@@ -747,9 +747,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -780,9 +780,9 @@ events:
       - "strip"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -791,9 +791,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -802,9 +802,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -814,9 +814,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/strip"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/strip"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/strip"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/strip"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/strip"
@@ -825,9 +825,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/strip"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/strip"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/strip"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/strip"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/strip"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/strip"
@@ -843,9 +843,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -876,9 +876,9 @@ events:
       - "ld"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -887,9 +887,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -898,9 +898,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -910,9 +910,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/ld"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ld"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ld"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ld"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/ld"
@@ -921,9 +921,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/ld"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ld"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/ld"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/ld"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/ld"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/ld"
@@ -939,9 +939,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -972,9 +972,9 @@ events:
       - "nm"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -983,9 +983,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -994,9 +994,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1006,9 +1006,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/nm"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/nm"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/nm"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/nm"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/nm"
@@ -1017,9 +1017,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/nm"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/nm"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/nm"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/nm"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/nm"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/nm"
@@ -1035,9 +1035,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1068,9 +1068,9 @@ events:
       - "objdump"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1079,9 +1079,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1090,9 +1090,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1102,9 +1102,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/objdump"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objdump"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/objdump"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objdump"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/objdump"
@@ -1113,9 +1113,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/objdump"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objdump"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/objdump"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objdump"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/objdump"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/objdump"
@@ -1131,9 +1131,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1164,9 +1164,9 @@ events:
       - "objcopy"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1175,9 +1175,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1186,9 +1186,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1198,9 +1198,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/objcopy"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objcopy"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/objcopy"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objcopy"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/objcopy"
@@ -1209,9 +1209,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/objcopy"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objcopy"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/objcopy"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/objcopy"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/objcopy"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/objcopy"
@@ -1227,9 +1227,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1260,9 +1260,9 @@ events:
       - "readelf"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1271,9 +1271,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1282,9 +1282,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1294,9 +1294,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/readelf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/readelf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/readelf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/readelf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/readelf"
@@ -1305,9 +1305,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/readelf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/readelf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/readelf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/readelf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/readelf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/readelf"
@@ -1323,9 +1323,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1356,9 +1356,9 @@ events:
       - "dlltool"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1367,9 +1367,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1378,9 +1378,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1390,9 +1390,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/dlltool"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/dlltool"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/dlltool"
@@ -1401,9 +1401,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/dlltool"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/dlltool"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/dlltool"
@@ -1412,9 +1412,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/dlltool"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/dlltool"
       - "/usr/bin/dlltool"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/dlltool"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
       - "/usr/local/bin/dlltool"
       - "/bin/dlltool"
       - "/usr/local/sbin/dlltool"
@@ -1430,9 +1430,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1463,9 +1463,9 @@ events:
       - "addr2line"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1474,9 +1474,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1485,9 +1485,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1497,9 +1497,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/addr2line"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/addr2line"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/addr2line"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/addr2line"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/addr2line"
@@ -1508,9 +1508,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/addr2line"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/addr2line"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/addr2line"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/addr2line"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/addr2line"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/addr2line"
@@ -1526,9 +1526,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1559,9 +1559,9 @@ events:
       - "tapi"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1570,9 +1570,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1581,9 +1581,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1593,9 +1593,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/tapi"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/tapi"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/tapi"
@@ -1604,9 +1604,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/tapi"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/tapi"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/tapi"
@@ -1615,9 +1615,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/tapi"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/tapi"
       - "/usr/bin/tapi"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/tapi"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/tapi"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
       - "/usr/local/bin/tapi"
       - "/bin/tapi"
       - "/usr/local/sbin/tapi"
@@ -1633,9 +1633,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1669,9 +1669,9 @@ events:
       - "gcc-ar"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1680,9 +1680,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1691,9 +1691,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1703,9 +1703,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ar-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ar-15.2"
@@ -1714,9 +1714,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ar-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ar-15.2"
@@ -1725,9 +1725,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/gcc-ar-15.2"
       - "/usr/bin/gcc-ar-15.2"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar-15.2"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15.2"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15.2"
       - "/usr/local/bin/gcc-ar-15.2"
       - "/bin/gcc-ar-15.2"
       - "/usr/local/sbin/gcc-ar-15.2"
@@ -1736,9 +1736,9 @@ events:
       - "/usr/bin/core_perl/gcc-ar-15.2"
       - "/usr/lib/rustup/bin/gcc-ar-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ar-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ar-15"
@@ -1747,9 +1747,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ar-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ar-15"
@@ -1758,9 +1758,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/gcc-ar-15"
       - "/usr/bin/gcc-ar-15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar-15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar-15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar-15"
       - "/usr/local/bin/gcc-ar-15"
       - "/bin/gcc-ar-15"
       - "/usr/local/sbin/gcc-ar-15"
@@ -1769,9 +1769,9 @@ events:
       - "/usr/bin/core_perl/gcc-ar-15"
       - "/usr/lib/rustup/bin/gcc-ar-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ar15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ar15"
@@ -1780,9 +1780,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ar15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ar15"
@@ -1791,9 +1791,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/gcc-ar15"
       - "/usr/bin/gcc-ar15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar15"
       - "/usr/local/bin/gcc-ar15"
       - "/bin/gcc-ar15"
       - "/usr/local/sbin/gcc-ar15"
@@ -1802,9 +1802,9 @@ events:
       - "/usr/bin/core_perl/gcc-ar15"
       - "/usr/lib/rustup/bin/gcc-ar15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ar"
@@ -1813,9 +1813,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ar"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ar"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ar"
@@ -1831,9 +1831,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -1867,9 +1867,9 @@ events:
       - "gcc-ranlib"
     candidate_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/"
@@ -1878,9 +1878,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/"
@@ -1889,9 +1889,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/"
       - "/usr/bin/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/bin/"
       - "/usr/local/sbin/"
@@ -1901,9 +1901,9 @@ events:
       - "/usr/lib/rustup/bin/"
     searched_directories:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ranlib-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ranlib-15.2"
@@ -1912,9 +1912,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ranlib-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ranlib-15.2"
@@ -1923,9 +1923,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/gcc-ranlib-15.2"
       - "/usr/bin/gcc-ranlib-15.2"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib-15.2"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15.2"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15.2"
       - "/usr/local/bin/gcc-ranlib-15.2"
       - "/bin/gcc-ranlib-15.2"
       - "/usr/local/sbin/gcc-ranlib-15.2"
@@ -1934,9 +1934,9 @@ events:
       - "/usr/bin/core_perl/gcc-ranlib-15.2"
       - "/usr/lib/rustup/bin/gcc-ranlib-15.2"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ranlib-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ranlib-15"
@@ -1945,9 +1945,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ranlib-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ranlib-15"
@@ -1956,9 +1956,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/gcc-ranlib-15"
       - "/usr/bin/gcc-ranlib-15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib-15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib-15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib-15"
       - "/usr/local/bin/gcc-ranlib-15"
       - "/bin/gcc-ranlib-15"
       - "/usr/local/sbin/gcc-ranlib-15"
@@ -1967,9 +1967,9 @@ events:
       - "/usr/bin/core_perl/gcc-ranlib-15"
       - "/usr/lib/rustup/bin/gcc-ranlib-15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ranlib15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ranlib15"
@@ -1978,9 +1978,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ranlib15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ranlib15"
@@ -1989,9 +1989,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/core_perl/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/lib/rustup/bin/gcc-ranlib15"
       - "/usr/bin/gcc-ranlib15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib15"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib15"
       - "/usr/local/bin/gcc-ranlib15"
       - "/bin/gcc-ranlib15"
       - "/usr/local/sbin/gcc-ranlib15"
@@ -2000,9 +2000,9 @@ events:
       - "/usr/bin/core_perl/gcc-ranlib15"
       - "/usr/lib/rustup/bin/gcc-ranlib15"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/gcc-ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/sbin/gcc-ranlib"
@@ -2011,9 +2011,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/core_perl/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/lib/rustup/bin/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/gcc-ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/gcc-ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/gcc-ranlib"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/gcc-ranlib"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/sbin/gcc-ranlib"
@@ -2029,9 +2029,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -2050,8 +2050,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bwM0rM"
-      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bwM0rM"
+      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-UfTdWa"
+      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-UfTdWa"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2065,10 +2065,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bwM0rM'
+        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-UfTdWa'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_75b80
-        [1/2] /usr/bin/c++   -v -o CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /usr/bin/ninja -v cmTC_9f1e9
+        [1/2] /usr/bin/c++   -v -o CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         Target: x86_64-pc-linux-gnu
@@ -2076,8 +2076,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.1 20251112 (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_75b80.dir/'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_75b80.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/cc7HjOMI.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f1e9.dir/'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9f1e9.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/cc7IxJ8k.s
         GNU C++17 (GCC) version 15.2.1 20251112 (x86_64-pc-linux-gnu)
         	compiled by GNU C version 15.2.1 20251112, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2094,13 +2094,13 @@ events:
          /usr/include
         End of search list.
         Compiler executable checksum: 4f062beaae229dc32234f13ba259a70e
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_75b80.dir/'
-         as -v --64 -o CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc7HjOMI.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f1e9.dir/'
+         as -v --64 -o CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc7IxJ8k.s
         GNU assembler version 2.45.1 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.45.1
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] : && /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_75b80   && :
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] : && /usr/bin/c++  -v -Wl,-v CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9f1e9   && :
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper
@@ -2111,12 +2111,12 @@ events:
         gcc version 15.2.1 20251112 (GCC) 
         COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_75b80' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_75b80.'
-         /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZhs4VB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_75b80 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f1e9' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9f1e9.'
+         /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuJUo7U.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9f1e9 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o
         collect2 version 15.2.1 20251112
-        /usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZhs4VB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_75b80 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o
+        /usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuJUo7U.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9f1e9 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o
         GNU ld (GNU Binutils) 2.45.1
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_75b80' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_75b80.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f1e9' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9f1e9.'
         
       exitCode: 0
   -
@@ -2157,10 +2157,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bwM0rM']
+        ignore line: [Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-UfTdWa']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/ninja -v cmTC_75b80]
-        ignore line: [[1/2] /usr/bin/c++   -v -o CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /usr/bin/ninja -v cmTC_9f1e9]
+        ignore line: [[1/2] /usr/bin/c++   -v -o CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [Target: x86_64-pc-linux-gnu]
@@ -2168,8 +2168,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.1 20251112 (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_75b80.dir/']
-        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_75b80.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/cc7HjOMI.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f1e9.dir/']
+        ignore line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_9f1e9.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/cc7IxJ8k.s]
         ignore line: [GNU C++17 (GCC) version 15.2.1 20251112 (x86_64-pc-linux-gnu)]
         ignore line: [	compiled by GNU C version 15.2.1 20251112  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2186,13 +2186,13 @@ events:
         ignore line: [ /usr/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 4f062beaae229dc32234f13ba259a70e]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_75b80.dir/']
-        ignore line: [ as -v --64 -o CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc7HjOMI.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f1e9.dir/']
+        ignore line: [ as -v --64 -o CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc7IxJ8k.s]
         ignore line: [GNU assembler version 2.45.1 (x86_64-pc-linux-gnu) using BFD version (GNU Binutils) 2.45.1]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] : && /usr/bin/c++  -v -Wl -v CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_75b80   && :]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] : && /usr/bin/c++  -v -Wl -v CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9f1e9   && :]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper]
@@ -2203,13 +2203,13 @@ events:
         ignore line: [gcc version 15.2.1 20251112 (GCC) ]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/:/lib/../lib/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_75b80' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_75b80.']
-        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZhs4VB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_75b80 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9f1e9' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9f1e9.']
+        link line: [ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/collect2 -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuJUo7U.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9f1e9 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccZhs4VB.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccuJUo7U.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -2224,7 +2224,7 @@ events:
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-pie] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_75b80] ==> ignore
+          arg [cmTC_9f1e9] ==> ignore
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o]
@@ -2236,7 +2236,7 @@ events:
           arg [-L/lib] ==> dir [/lib]
           arg [-L/usr/lib] ==> dir [/usr/lib]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -2247,7 +2247,7 @@ events:
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o]
           arg [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o] ==> obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o]
         ignore line: [collect2 version 15.2.1 20251112]
-        ignore line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccZhs4VB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_75b80 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_75b80.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o]
+        ignore line: [/usr/bin/ld -plugin /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuJUo7U.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_9f1e9 /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtbeginS.o -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1 -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib -L/lib/../lib -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../.. -L/lib -L/usr/lib -v CMakeFiles/cmTC_9f1e9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/crtendS.o /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crtn.o]
         linker tool for 'CXX': /usr/bin/ld
         collapse obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/Scrt1.o] ==> [/usr/lib/Scrt1.o]
         collapse obj [/usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/../../../../lib/crti.o] ==> [/usr/lib/crti.o]
@@ -2310,9 +2310,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -2367,9 +2367,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -2417,9 +2417,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -2446,9 +2446,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -2475,9 +2475,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -2505,9 +2505,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -2534,9 +2534,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -2563,9 +2563,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -2585,9 +2585,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -2619,8 +2619,8 @@ events:
     checks:
       - "Looking for wsyncup in /usr/lib/libcurses.so"
     directories:
-      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-gk1Uom"
-      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-gk1Uom"
+      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-z64T6o"
+      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-z64T6o"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2633,11 +2633,11 @@ events:
       variable: "CURSES_CURSES_HAS_WSYNCUP"
       cached: true
       stdout: |
-        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-gk1Uom'
+        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-z64T6o'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_b118e
-        [1/2] /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=wsyncup -o CMakeFiles/cmTC_b118e.dir/CheckFunctionExists.cxx.o -c /home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-gk1Uom/CheckFunctionExists.cxx
-        [2/2] : && /usr/bin/c++ -DCHECK_FUNCTION_EXISTS=wsyncup  CMakeFiles/cmTC_b118e.dir/CheckFunctionExists.cxx.o -o cmTC_b118e  -lcurses && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_8195e
+        [1/2] /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=wsyncup -o CMakeFiles/cmTC_8195e.dir/CheckFunctionExists.cxx.o -c /home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-z64T6o/CheckFunctionExists.cxx
+        [2/2] : && /usr/bin/c++ -DCHECK_FUNCTION_EXISTS=wsyncup  CMakeFiles/cmTC_8195e.dir/CheckFunctionExists.cxx.o -o cmTC_8195e  -lcurses && :
         
       exitCode: 0
   -
@@ -2650,8 +2650,8 @@ events:
     checks:
       - "Looking for cbreak in /home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/libncursesw.a"
     directories:
-      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-jgOHFm"
-      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-jgOHFm"
+      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-mL3SA7"
+      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-mL3SA7"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2664,11 +2664,11 @@ events:
       variable: "CURSES_NCURSES_HAS_CBREAK"
       cached: true
       stdout: |
-        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-jgOHFm'
+        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-mL3SA7'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_5d566
-        [1/2] /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=cbreak -o CMakeFiles/cmTC_5d566.dir/CheckFunctionExists.cxx.o -c /home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-jgOHFm/CheckFunctionExists.cxx
-        [2/2] : && /usr/bin/c++ -DCHECK_FUNCTION_EXISTS=cbreak  CMakeFiles/cmTC_5d566.dir/CheckFunctionExists.cxx.o -o cmTC_5d566  /home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/libncursesw.a && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_e1886
+        [1/2] /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=cbreak -o CMakeFiles/cmTC_e1886.dir/CheckFunctionExists.cxx.o -c /home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-mL3SA7/CheckFunctionExists.cxx
+        [2/2] : && /usr/bin/c++ -DCHECK_FUNCTION_EXISTS=cbreak  CMakeFiles/cmTC_e1886.dir/CheckFunctionExists.cxx.o -o cmTC_e1886  /home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/libncursesw.a && :
         
       exitCode: 0
   -
@@ -2681,8 +2681,8 @@ events:
     checks:
       - "Looking for nodelay in /home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/libncursesw.a"
     directories:
-      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bhhfUC"
-      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bhhfUC"
+      source: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-K4obbH"
+      binary: "/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-K4obbH"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2695,11 +2695,11 @@ events:
       variable: "CURSES_NCURSES_HAS_NODELAY"
       cached: true
       stdout: |
-        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bhhfUC'
+        Change Dir: '/home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-K4obbH'
         
-        Run Build Command(s): /usr/bin/ninja -v cmTC_a7a6d
-        [1/2] /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=nodelay -o CMakeFiles/cmTC_a7a6d.dir/CheckFunctionExists.cxx.o -c /home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-bhhfUC/CheckFunctionExists.cxx
-        [2/2] : && /usr/bin/c++ -DCHECK_FUNCTION_EXISTS=nodelay  CMakeFiles/cmTC_a7a6d.dir/CheckFunctionExists.cxx.o -o cmTC_a7a6d  /home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/libncursesw.a && :
+        Run Build Command(s): /usr/bin/ninja -v cmTC_59bc4
+        [1/2] /usr/bin/c++   -DCHECK_FUNCTION_EXISTS=nodelay -o CMakeFiles/cmTC_59bc4.dir/CheckFunctionExists.cxx.o -c /home/tuthanh/Coding/C++/snake/build/CMakeFiles/CMakeScratch/TryCompile-K4obbH/CheckFunctionExists.cxx
+        [2/2] : && /usr/bin/c++ -DCHECK_FUNCTION_EXISTS=nodelay  CMakeFiles/cmTC_59bc4.dir/CheckFunctionExists.cxx.o -o cmTC_59bc4  /home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/libncursesw.a && :
         
       exitCode: 0
   -
@@ -2729,9 +2729,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -2759,9 +2759,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -2789,9 +2789,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -2821,9 +2821,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -2875,9 +2875,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -2910,9 +2910,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -2945,9 +2945,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/sbin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -2988,12 +2988,12 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/pkgconf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/pkgconf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/pkg-config"
@@ -3058,12 +3058,12 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/pkgconf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/pkgconf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/pkg-config"
@@ -3128,12 +3128,12 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/pkgconf"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/pkg-config"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/tools/pkgconf"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/pkg-config"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/pkgconf"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkg-config"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/pkgconf"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkg-config"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/pkgconf"
       - "/usr/local/bin/pkg-config"
       - "/usr/local/bin/pkgconf"
     found: "/usr/bin/pkg-config"
@@ -3144,9 +3144,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -3202,9 +3202,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -3266,9 +3266,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"
@@ -3320,9 +3320,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -3349,9 +3349,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -3378,9 +3378,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -3408,9 +3408,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/bin/"
@@ -3437,9 +3437,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/local/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/usr/bin/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/bin/"
@@ -3466,9 +3466,9 @@ events:
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug/lib/manual-link/"
       - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/lib/manual-link/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
-      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
       - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "/usr/local/bin/"
       - "/usr/bin/"
       - "/bin/"
@@ -3488,9 +3488,9 @@ events:
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/debug"
         - "/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux"
       ENV{PATH}:
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
-        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
         - "/home/tuthanh/.nvm/versions/node/v24.10.0/bin"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/tuthanh/.config/Code/User/globalStorage/github.copilot-chat/debugCommand"
         - "/usr/local/bin"
         - "/usr/bin"
         - "/bin"

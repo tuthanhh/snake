@@ -3,3 +3,9 @@
 /home/tuthanh/Coding/C++/snake/build/src/CMakeFiles/main.dir
 /home/tuthanh/Coding/C++/snake/build/src/CMakeFiles/edit_cache.dir
 /home/tuthanh/Coding/C++/snake/build/src/CMakeFiles/rebuild_cache.dir
+/home/tuthanh/Coding/C++/snake/build/src/log/CMakeFiles/log.dir
+/home/tuthanh/Coding/C++/snake/build/src/log/CMakeFiles/edit_cache.dir
+/home/tuthanh/Coding/C++/snake/build/src/log/CMakeFiles/rebuild_cache.dir
+/home/tuthanh/Coding/C++/snake/build/src/game_world/CMakeFiles/game_world.dir
+/home/tuthanh/Coding/C++/snake/build/src/game_world/CMakeFiles/edit_cache.dir
+/home/tuthanh/Coding/C++/snake/build/src/game_world/CMakeFiles/rebuild_cache.dir

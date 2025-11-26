@@ -1,14 +1,15 @@
+add_subdirectory(log)
+add_subdirectory(game_world)
+
 add_executable(main
 	main.cpp
-	menu-state.cpp
 	application.cpp
-	game-state.cpp
-	game/world.cpp
-	game/snake.cpp
-	game/food.cpp
+	state/game-state.cpp
+	state/menu-state.cpp
+	state/pause-state.cpp
 )
 target_include_directories(main PRIVATE .)  # Include current directory for headers
-
+target_link_libraries(main PRIVATE log game_world)
 
 target_compile_features(main PRIVATE cxx_std_17)
 

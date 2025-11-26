@@ -14,9 +14,12 @@ struct World {
     void handleInput(int ch);
     void update(int dt);
     void render() const;
+    void setPaused(bool paused) noexcept { isPaused = paused; }
 
     [[nodiscard]] int score() const noexcept;
     [[nodiscard]] bool isGameOver() const noexcept;
+
+    bool isPaused = false;
 
     const Snake &getSnake() const noexcept;
     const std::map<Coord, Food> &getFood() const noexcept;
@@ -30,6 +33,8 @@ private:
     [[nodiscard]] bool isInsideBounds(const Coord &point) const noexcept;
     [[nodiscard]] bool isCellOccupied(const Coord &point) const;
     void drawBound() const;
+    void drawHorizontalLine(int y, int width) const;
+    void drawVerticalLine(int x, int height) const;
 
     int boardWidth;
     int boardHeight;

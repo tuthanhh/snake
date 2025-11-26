@@ -1,5 +1,8 @@
 #include "snake.h"
 
+#include <algorithm>
+#include <cmath>
+
 namespace {
 constexpr int kDefaultMoveIntervalMs = 150; // ~6.6 moves per second
 constexpr int kDefaultInitialLength = 3;
@@ -56,14 +59,19 @@ void Snake::update(int dt) {
 void Snake::render() const {
     int height, width;
     getmaxyx(stdscr, height, width);
-    int box_y = height/WORLD_HEIGHT; 
-    int box_x = width/WORLD_WIDTH;
-    for (const auto& segment : body) {
-        int draw_x = segment.x * box_x;
-        int draw_y = segment.y * box_y;
-        for (int y = 0; y < box_y; ++y) {
-            for (int x = 0; x < box_x; ++x) {
-                mvaddch(draw_y + y, draw_x + x, '#');
+
+    const double cellHeight = static_cast<double>(height) / WORLD_HEIGHT;
+    const double cellWidth = static_cast<double>(width) / WORLD_WIDTH;
+
+    for (const auto &segment : body) {
+        const int xStart = static_cast<int>(std::floor(segment.x * cellWidth));
+        const int xEnd = std::min(width, std::max(xStart + 1, static_cast<int>(std::ceil((segment.x + 1) * cellWidth))));
+        const int yStart = static_cast<int>(std::floor(segment.y * cellHeight));
+        const int yEnd = std::min(height, std::max(yStart + 1, static_cast<int>(std::ceil((segment.y + 1) * cellHeight))));
+
+        for (int y = yStart; y < yEnd; ++y) {
+            for (int x = xStart; x < xEnd; ++x) {
+                mvaddch(y, x, '#');
             }
         }
     }

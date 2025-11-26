@@ -19,8 +19,16 @@ public:
 
     void run();
     void pushState(State* state) {
-        stateStack.push(currentState);
+        stateStack.push(state);
         currentState = state;
+    }
+    void clearStates() {
+        while (!stateStack.empty()) {
+            State* topState = stateStack.top();
+            stateStack.pop();
+            delete topState;
+        }
+        currentState = nullptr;
     }
     void popState()
     {

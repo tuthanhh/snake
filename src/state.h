@@ -1,7 +1,7 @@
 #pragma once
 // Define different types of states in the application
 #include <ncurses.h>
-#include "game/world.h"
+#include "game_world/world.h"
 
 struct State {
     enum class Type {
@@ -45,4 +45,22 @@ struct GameState : public State {
     void handleInput(int ch) override;
     void update(int dt) override; 
     void render() override;
+
+};
+
+struct PauseState : public State {
+    enum class Option {
+        RESUME,
+        QUIT_TO_MENU
+    };
+    Option selectedOption;
+    bool isBlinkOn = true;
+    int blinkCounter = 0;
+
+    PauseState() : State(Type::PAUSE), selectedOption(Option::RESUME) {}
+
+    void handleInput(int ch) override;
+    void update(int dt) override; 
+    void render() override;
+    void draw_title(); 
 };

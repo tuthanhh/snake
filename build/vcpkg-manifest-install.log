@@ -12,4 +12,4 @@ The package ncurses is compatible with built-in CMake variables:
     target_compile_options(main PRIVATE ${CURSES_CFLAGS})
     target_link_libraries(main PRIVATE ${CURSES_LIBRARIES})
 
-All requested installations completed successfully in: 133 us
+All requested installations completed successfully in: 144 us

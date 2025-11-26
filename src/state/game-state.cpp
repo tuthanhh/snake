@@ -3,7 +3,8 @@
 void GameState::handleInput(int ch) {
     switch (ch) {
     case 27: // ESC key
-        Application::getInstance().popState();
+        world.setPaused(true);
+        Application::getInstance().pushState(new PauseState());
         break;
     default:
         world.handleInput(ch);

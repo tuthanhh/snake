@@ -18,12 +18,9 @@ void MenuState::handleInput(int ch) {
         case '\n': // Enter key
             if (selectedOption == Option::START_GAME) {
                 // Transition to game state logic
-                Application::getInstance().currentState = new GameState();
-                Application::getInstance().stateStack.push(Application::getInstance().currentState);
+                Application::getInstance().pushState(new GameState());
             } else if (selectedOption == Option::EXIT) {
-                while (!Application::getInstance().stateStack.empty()) {
-                    Application::getInstance().popState();
-                }
+                Application::getInstance().clearStates();
             }
             break;
         default:

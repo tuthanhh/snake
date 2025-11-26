@@ -33,7 +33,7 @@ void World::handleInput(int ch) {
 }
 
 void World::update(int dt) {
-    if (!gameOver) {
+    if (!gameOver && !isPaused) {
         snake.update(dt);
         while (snake.consumeMoveStep()) {
             advance();
@@ -54,24 +54,22 @@ void World::render() const {
 void World::drawBound() const { 
     int height, width;
     getmaxyx(stdscr, height, width);
-    int box_y = height / boardHeight; 
-    int box_x = width / boardWidth;
 
-    // Draw top borders
+    drawHorizontalLine(0, width);
+    drawHorizontalLine(height - 1, width);
+    drawVerticalLine(0, height);
+    drawVerticalLine(width - 1, height);
+}
+
+void World::drawHorizontalLine(int y, int width) const {
     for (int x = 0; x < width; ++x) {
-        mvaddch(0, x, '#');
+        mvaddch(y, x, '#');
     }
-    // Draw bottom borders
-    for (int x = 0; x < width; ++x) {
-        mvaddch(box_y * boardHeight - 1, x, '#');
-    }
-    // Draw left borders
+}
+
+void World::drawVerticalLine(int x, int height) const {
     for (int y = 0; y < height; ++y) {
-        mvaddch(y, 0, '#');
-    }
-    // Draw right borders
-    for (int y = 0; y < height; ++y) {
-        mvaddch(y, box_x * boardWidth - 1, '#');
+        mvaddch(y, x, '#');
     }
 }
 

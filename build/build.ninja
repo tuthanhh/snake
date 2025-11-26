@@ -71,49 +71,37 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Order-only phony target for main
 
-build cmake_object_order_depends_target_main: phony || .
+build cmake_object_order_depends_target_main: phony || cmake_object_order_depends_target_game_world cmake_object_order_depends_target_log
 
 build src/CMakeFiles/main.dir/main.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/main.cpp || cmake_object_order_depends_target_main
   DEP_FILE = src/CMakeFiles/main.dir/main.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
-  OBJECT_DIR = src/CMakeFiles/main.dir
-  OBJECT_FILE_DIR = src/CMakeFiles/main.dir
-
-build src/CMakeFiles/main.dir/menu-state.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/menu-state.cpp || cmake_object_order_depends_target_main
-  DEP_FILE = src/CMakeFiles/main.dir/menu-state.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include -I/home/tuthanh/Coding/C++/snake/src/log -I/home/tuthanh/Coding/C++/snake/src/game_world
   OBJECT_DIR = src/CMakeFiles/main.dir
   OBJECT_FILE_DIR = src/CMakeFiles/main.dir
 
 build src/CMakeFiles/main.dir/application.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/application.cpp || cmake_object_order_depends_target_main
   DEP_FILE = src/CMakeFiles/main.dir/application.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include -I/home/tuthanh/Coding/C++/snake/src/log -I/home/tuthanh/Coding/C++/snake/src/game_world
   OBJECT_DIR = src/CMakeFiles/main.dir
   OBJECT_FILE_DIR = src/CMakeFiles/main.dir
 
-build src/CMakeFiles/main.dir/game-state.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/game-state.cpp || cmake_object_order_depends_target_main
-  DEP_FILE = src/CMakeFiles/main.dir/game-state.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
+build src/CMakeFiles/main.dir/state/game-state.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/state/game-state.cpp || cmake_object_order_depends_target_main
+  DEP_FILE = src/CMakeFiles/main.dir/state/game-state.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include -I/home/tuthanh/Coding/C++/snake/src/log -I/home/tuthanh/Coding/C++/snake/src/game_world
   OBJECT_DIR = src/CMakeFiles/main.dir
-  OBJECT_FILE_DIR = src/CMakeFiles/main.dir
+  OBJECT_FILE_DIR = src/CMakeFiles/main.dir/state
 
-build src/CMakeFiles/main.dir/game/world.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/game/world.cpp || cmake_object_order_depends_target_main
-  DEP_FILE = src/CMakeFiles/main.dir/game/world.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
+build src/CMakeFiles/main.dir/state/menu-state.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/state/menu-state.cpp || cmake_object_order_depends_target_main
+  DEP_FILE = src/CMakeFiles/main.dir/state/menu-state.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include -I/home/tuthanh/Coding/C++/snake/src/log -I/home/tuthanh/Coding/C++/snake/src/game_world
   OBJECT_DIR = src/CMakeFiles/main.dir
-  OBJECT_FILE_DIR = src/CMakeFiles/main.dir/game
+  OBJECT_FILE_DIR = src/CMakeFiles/main.dir/state
 
-build src/CMakeFiles/main.dir/game/snake.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/game/snake.cpp || cmake_object_order_depends_target_main
-  DEP_FILE = src/CMakeFiles/main.dir/game/snake.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
+build src/CMakeFiles/main.dir/state/pause-state.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/state/pause-state.cpp || cmake_object_order_depends_target_main
+  DEP_FILE = src/CMakeFiles/main.dir/state/pause-state.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include -I/home/tuthanh/Coding/C++/snake/src/log -I/home/tuthanh/Coding/C++/snake/src/game_world
   OBJECT_DIR = src/CMakeFiles/main.dir
-  OBJECT_FILE_DIR = src/CMakeFiles/main.dir/game
-
-build src/CMakeFiles/main.dir/game/food.cpp.o: CXX_COMPILER__main_unscanned_ /home/tuthanh/Coding/C++/snake/src/game/food.cpp || cmake_object_order_depends_target_main
-  DEP_FILE = src/CMakeFiles/main.dir/game/food.cpp.o.d
-  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/. -I/home/tuthanh/Coding/C++/snake/build/vcpkg_installed/x64-linux/include
-  OBJECT_DIR = src/CMakeFiles/main.dir
-  OBJECT_FILE_DIR = src/CMakeFiles/main.dir/game
+  OBJECT_FILE_DIR = src/CMakeFiles/main.dir/state
 
 
 # =============================================================================
@@ -123,10 +111,10 @@ build src/CMakeFiles/main.dir/game/food.cpp.o: CXX_COMPILER__main_unscanned_ /ho
 #############################################
 # Link the executable main
 
-build main: CXX_EXECUTABLE_LINKER__main_ src/CMakeFiles/main.dir/main.cpp.o src/CMakeFiles/main.dir/menu-state.cpp.o src/CMakeFiles/main.dir/application.cpp.o src/CMakeFiles/main.dir/game-state.cpp.o src/CMakeFiles/main.dir/game/world.cpp.o src/CMakeFiles/main.dir/game/snake.cpp.o src/CMakeFiles/main.dir/game/food.cpp.o | vcpkg_installed/x64-linux/lib/libncursesw.a vcpkg_installed/x64-linux/debug/lib/libformw.a
+build main: CXX_EXECUTABLE_LINKER__main_ src/CMakeFiles/main.dir/main.cpp.o src/CMakeFiles/main.dir/application.cpp.o src/CMakeFiles/main.dir/state/game-state.cpp.o src/CMakeFiles/main.dir/state/menu-state.cpp.o src/CMakeFiles/main.dir/state/pause-state.cpp.o | src/log/liblog.a src/game_world/libgame_world.a vcpkg_installed/x64-linux/lib/libncursesw.a vcpkg_installed/x64-linux/debug/lib/libformw.a || src/game_world/libgame_world.a src/log/liblog.a
   DEP_FILE = src/CMakeFiles/main.dir/link.d
   LINK_FLAGS = -Wl,--dependency-file=src/CMakeFiles/main.dir/link.d
-  LINK_LIBRARIES = vcpkg_installed/x64-linux/lib/libncursesw.a  vcpkg_installed/x64-linux/debug/lib/libformw.a
+  LINK_LIBRARIES = src/log/liblog.a  src/game_world/libgame_world.a  vcpkg_installed/x64-linux/lib/libncursesw.a  vcpkg_installed/x64-linux/debug/lib/libformw.a
   OBJECT_DIR = src/CMakeFiles/main.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -158,7 +146,146 @@ build src/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
 build src/rebuild_cache: phony src/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /home/tuthanh/Coding/C++/snake/src/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target log
+
+
+#############################################
+# Order-only phony target for log
+
+build cmake_object_order_depends_target_log: phony || .
+
+build src/log/CMakeFiles/log.dir/log.cpp.o: CXX_COMPILER__log_unscanned_ /home/tuthanh/Coding/C++/snake/src/log/log.cpp || cmake_object_order_depends_target_log
+  DEFINES = -DLOG_OUTPUT_PATH=\"/home/tuthanh/Coding/C++/snake/build/application.log\"
+  DEP_FILE = src/log/CMakeFiles/log.dir/log.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/log
+  OBJECT_DIR = src/log/CMakeFiles/log.dir
+  OBJECT_FILE_DIR = src/log/CMakeFiles/log.dir
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target log
+
+
+#############################################
+# Link the static library src/log/liblog.a
+
+build src/log/liblog.a: CXX_STATIC_LIBRARY_LINKER__log_ src/log/CMakeFiles/log.dir/log.cpp.o
+  OBJECT_DIR = src/log/CMakeFiles/log.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = src/log/liblog.a
+  TARGET_PDB = log.a.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build src/log/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/tuthanh/Coding/C++/snake/build/src/log && /usr/bin/ccmake -S/home/tuthanh/Coding/C++/snake -B/home/tuthanh/Coding/C++/snake/build
+  DESC = Running CMake cache editor...
+  pool = console
+  restat = 1
+
+build src/log/edit_cache: phony src/log/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build src/log/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/tuthanh/Coding/C++/snake/build/src/log && /usr/bin/cmake --regenerate-during-build -S/home/tuthanh/Coding/C++/snake -B/home/tuthanh/Coding/C++/snake/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build src/log/rebuild_cache: phony src/log/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# /home/tuthanh/Coding/C++/snake/src/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target game_world
+
+
+#############################################
+# Order-only phony target for game_world
+
+build cmake_object_order_depends_target_game_world: phony || .
+
+build src/game_world/CMakeFiles/game_world.dir/world.cpp.o: CXX_COMPILER__game_world_unscanned_ /home/tuthanh/Coding/C++/snake/src/game_world/world.cpp || cmake_object_order_depends_target_game_world
+  DEP_FILE = src/game_world/CMakeFiles/game_world.dir/world.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/game_world
+  OBJECT_DIR = src/game_world/CMakeFiles/game_world.dir
+  OBJECT_FILE_DIR = src/game_world/CMakeFiles/game_world.dir
+
+build src/game_world/CMakeFiles/game_world.dir/snake.cpp.o: CXX_COMPILER__game_world_unscanned_ /home/tuthanh/Coding/C++/snake/src/game_world/snake.cpp || cmake_object_order_depends_target_game_world
+  DEP_FILE = src/game_world/CMakeFiles/game_world.dir/snake.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/game_world
+  OBJECT_DIR = src/game_world/CMakeFiles/game_world.dir
+  OBJECT_FILE_DIR = src/game_world/CMakeFiles/game_world.dir
+
+build src/game_world/CMakeFiles/game_world.dir/food.cpp.o: CXX_COMPILER__game_world_unscanned_ /home/tuthanh/Coding/C++/snake/src/game_world/food.cpp || cmake_object_order_depends_target_game_world
+  DEP_FILE = src/game_world/CMakeFiles/game_world.dir/food.cpp.o.d
+  INCLUDES = -I/home/tuthanh/Coding/C++/snake/src/game_world
+  OBJECT_DIR = src/game_world/CMakeFiles/game_world.dir
+  OBJECT_FILE_DIR = src/game_world/CMakeFiles/game_world.dir
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target game_world
+
+
+#############################################
+# Link the static library src/game_world/libgame_world.a
+
+build src/game_world/libgame_world.a: CXX_STATIC_LIBRARY_LINKER__game_world_ src/game_world/CMakeFiles/game_world.dir/world.cpp.o src/game_world/CMakeFiles/game_world.dir/snake.cpp.o src/game_world/CMakeFiles/game_world.dir/food.cpp.o
+  OBJECT_DIR = src/game_world/CMakeFiles/game_world.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = src/game_world/libgame_world.a
+  TARGET_PDB = game_world.a.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build src/game_world/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/tuthanh/Coding/C++/snake/build/src/game_world && /usr/bin/ccmake -S/home/tuthanh/Coding/C++/snake -B/home/tuthanh/Coding/C++/snake/build
+  DESC = Running CMake cache editor...
+  pool = console
+  restat = 1
+
+build src/game_world/edit_cache: phony src/game_world/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build src/game_world/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /home/tuthanh/Coding/C++/snake/build/src/game_world && /usr/bin/cmake --regenerate-during-build -S/home/tuthanh/Coding/C++/snake -B/home/tuthanh/Coding/C++/snake/build
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build src/game_world/rebuild_cache: phony src/game_world/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
+
+build game_world: phony src/game_world/libgame_world.a
+
+build libgame_world.a: phony src/game_world/libgame_world.a
+
+build liblog.a: phony src/log/liblog.a
+
+build log: phony src/log/liblog.a
 
 # =============================================================================
 # Folder targets.
@@ -175,7 +302,21 @@ build all: phony src/all
 #############################################
 # Folder: /home/tuthanh/Coding/C++/snake/build/src
 
-build src/all: phony main
+build src/all: phony main src/log/all src/game_world/all
+
+# =============================================================================
+
+#############################################
+# Folder: /home/tuthanh/Coding/C++/snake/build/src/game_world
+
+build src/game_world/all: phony src/game_world/libgame_world.a
+
+# =============================================================================
+
+#############################################
+# Folder: /home/tuthanh/Coding/C++/snake/build/src/log
+
+build src/log/all: phony src/log/liblog.a
 
 # =============================================================================
 # Built-in targets
@@ -184,14 +325,14 @@ build src/all: phony main
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja /home/tuthanh/Coding/C++/snake/build/cmake_install.cmake /home/tuthanh/Coding/C++/snake/build/src/cmake_install.cmake: RERUN_CMAKE | /home/tuthanh/.local/share/vcpkg/scripts/buildsystems/vcpkg.cmake /home/tuthanh/Coding/C++/snake/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/CMakeLists.txt /home/tuthanh/Coding/C++/snake/vcpkg-configuration.json /home/tuthanh/Coding/C++/snake/vcpkg.json /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePushCheckState.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindCurses.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/4.1.2/CMakeCXXCompiler.cmake CMakeFiles/4.1.2/CMakeSystem.cmake
+build build.ninja /home/tuthanh/Coding/C++/snake/build/cmake_install.cmake /home/tuthanh/Coding/C++/snake/build/src/cmake_install.cmake /home/tuthanh/Coding/C++/snake/build/src/log/cmake_install.cmake /home/tuthanh/Coding/C++/snake/build/src/game_world/cmake_install.cmake: RERUN_CMAKE | /home/tuthanh/.local/share/vcpkg/scripts/buildsystems/vcpkg.cmake /home/tuthanh/Coding/C++/snake/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/game_world/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/log/CMakeLists.txt /home/tuthanh/Coding/C++/snake/vcpkg-configuration.json /home/tuthanh/Coding/C++/snake/vcpkg.json /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePushCheckState.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindCurses.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/4.1.2/CMakeCXXCompiler.cmake CMakeFiles/4.1.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /home/tuthanh/.local/share/vcpkg/scripts/buildsystems/vcpkg.cmake /home/tuthanh/Coding/C++/snake/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/CMakeLists.txt /home/tuthanh/Coding/C++/snake/vcpkg-configuration.json /home/tuthanh/Coding/C++/snake/vcpkg.json /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePushCheckState.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindCurses.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/4.1.2/CMakeCXXCompiler.cmake CMakeFiles/4.1.2/CMakeSystem.cmake: phony
+build /home/tuthanh/.local/share/vcpkg/scripts/buildsystems/vcpkg.cmake /home/tuthanh/Coding/C++/snake/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/game_world/CMakeLists.txt /home/tuthanh/Coding/C++/snake/src/log/CMakeLists.txt /home/tuthanh/Coding/C++/snake/vcpkg-configuration.json /home/tuthanh/Coding/C++/snake/vcpkg.json /usr/share/cmake/Modules/CMakeCXXInformation.cmake /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake/Modules/CMakeDependentOption.cmake /usr/share/cmake/Modules/CMakeGenericSystem.cmake /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake/Modules/CMakeLanguageInformation.cmake /usr/share/cmake/Modules/CMakePushCheckState.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake/Modules/CheckLibraryExists.cmake /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake/Modules/Compiler/GNU.cmake /usr/share/cmake/Modules/FindCurses.cmake /usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake /usr/share/cmake/Modules/FindPackageMessage.cmake /usr/share/cmake/Modules/FindPkgConfig.cmake /usr/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake /usr/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake /usr/share/cmake/Modules/Linker/GNU-CXX.cmake /usr/share/cmake/Modules/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/GNU.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linker/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake/Modules/Platform/Linux-GNU.cmake /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake /usr/share/cmake/Modules/Platform/Linux.cmake /usr/share/cmake/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/4.1.2/CMakeCXXCompiler.cmake CMakeFiles/4.1.2/CMakeSystem.cmake: phony
 
 
 #############################################
