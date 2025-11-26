@@ -58,6 +58,4 @@ Controls:
 - Enter – confirm menu items
 - ESC – back/quit
 
-- P – toggle pause (or choose the pause menu option)
-
 Logs land in `build/application.log` so the source tree stays clean—remove the file between runs if you want a fresh trace.
